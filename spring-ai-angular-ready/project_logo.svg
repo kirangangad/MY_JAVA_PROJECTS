@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="200" viewBox="0 0 800 200">
+<defs>
+  <linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#ff4d8d"/><stop offset="1" stop-color="#ffa3c7"/></linearGradient>
+</defs>
+<rect width="100%" height="100%" rx="18" fill="#fff7fb"/>
+<g transform="translate(40,32)">
+  <rect width="136" height="136" rx="20" fill="url(#g)"/>
+  <text x="170" y="70" font-family="Poppins, Arial" font-size="48" fill="#2a1b2f">Spring-AI <tspan font-weight="700" fill="#ff4d8d">Angular</tspan></text>
+  <text x="170" y="110" font-family="Poppins, Arial" font-size="16" fill="#6b556b">AI-powered web app starter</text>
+</g>
+</svg>
